@@ -1,11 +1,18 @@
-# nodePractices
+### Practices with NodeJs
 
 -------------------
 ### Learning Javascript
 
 1. Variables and Datatypes
 
+  * automatic type conversions
+
+  * hoisting in variables and functions
+
+  * let vs var keyword
+
 2. Loops
+
 
 3. Functions
 
@@ -19,6 +26,10 @@
 
   3.5 Closures in Javascript
 
+  * Arrow functions
+
+  * Method vs functions
+
   3.6 Quiz
 
 4. Objects
@@ -29,4 +40,12 @@
 
 5. Object Oriented programming
 
-6.
+  * Properties
+
+*. Quizzes
+
+  * strict mode vs non strict mode
+
+  * What are block level functions
+
+  *
