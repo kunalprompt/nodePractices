@@ -12,6 +12,8 @@ hello("User", "Name");
 
 /*
 How to define a function with default arguments?
+Function's definition doesnot have any name, hence it is called
+Anonymous function.
 */
 
 var add = function (number, other=0){
