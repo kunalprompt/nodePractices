@@ -34,9 +34,10 @@
 
 4. Objects
 
-  4.1 Defining Objects in Javascript
+  4.1 Variables and objects
 
-  4.2 new keyword in Javascript
+  4.2 Magical new keyword in Javascript
+
 
 5. Object Oriented programming
 
