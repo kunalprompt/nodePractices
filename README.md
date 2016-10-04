@@ -38,10 +38,13 @@
 
   4.2 Magical new keyword in Javascript
 
+5. Object Oriented programming - Prototype based OOP
 
-5. Object Oriented programming
+  5.1 How Javascript is different in context of OOP?
 
-  * Properties
+  5.2 Implementing inheritance
+
+  5.3 Implementing multiple inheritance (Quasi multiple inheritance) 
 
 *. Quizzes
 
