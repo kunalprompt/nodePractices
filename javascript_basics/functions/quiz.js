@@ -46,3 +46,5 @@ function foo(){
     };
 }
 console.log(foo());
+
+// How many arguments can be passed to a function in Javascript?

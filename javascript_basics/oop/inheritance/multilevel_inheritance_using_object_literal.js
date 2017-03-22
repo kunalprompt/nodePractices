@@ -9,6 +9,7 @@ var species = {};
 // prototype based inheritance from species
 var animal = Object.create(species);
 
+// defining prototype for an Object which will be used as a class
 animal.prototype = {
   isAnimal: true
 };
