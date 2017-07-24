@@ -1,7 +1,7 @@
 var express = require('express');
 
-var user_router = require(__dirname + '/routes/user.js');
 var uri_logger = require(__dirname + '/middlewares/logger.js');
+var rest_router = require(__dirname + '/routes/rest/rest.js');
 
 /* configuring application */
 var app = express();
@@ -25,7 +25,7 @@ app.get('/', function(req, res){
 
 
 /* defining application routes */
-app.use('/users', user_router);
+app.use('/rest', rest_router);
 
 
 /* running server */
