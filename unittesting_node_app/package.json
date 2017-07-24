@@ -1,0 +1,14 @@
+{
+  "name": "unittesting_node_app",
+  "version": "1.0.0",
+  "description": "Understanding node app unit testing using mocha and chai libraries",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
